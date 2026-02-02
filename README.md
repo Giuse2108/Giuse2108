@@ -1,3 +1,6 @@
+![Banner GitHub](https://github.com/Giuse2108/Giuse2108/profilo_github.avif)
+
+
 👋 Hi, I'm Giuseppe!  
 💻 Software developer | 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
