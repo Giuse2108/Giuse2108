@@ -11,4 +11,8 @@
 🚀 Passionate about building clean and efficient code<br>
 🎓 Bachelor's degree in ITPS<br>
 ⏳ Master's degree in Cybersecurity and Cloud<br>
-📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/giuseppespecchi) | giuseppespecchi@gmail.com
+📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/giuseppe-specchi-31400523a) | giuseppespecchi@gmail.com
+
+### GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/Giuse2108?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Giuse2108?style=social)
