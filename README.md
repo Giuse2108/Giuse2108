@@ -1,4 +1,4 @@
-![Banner GitHub](https://github.com/Giuse2108/Giuse2108/profilo_github.avif)
+![Banner GitHub](https://raw.githubusercontent.com/Giuse2108/Giuse2108/refs/heads/main/profilo_github.png)
 
 
 👋 Hi, I'm Giuseppe!  
